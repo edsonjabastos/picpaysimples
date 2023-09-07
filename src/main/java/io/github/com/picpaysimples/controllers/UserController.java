@@ -1,4 +1,4 @@
-package io.github.com.picpaysimples.domain.controllers;
+package io.github.com.picpaysimples.controllers;
 
 import java.util.List;
 
